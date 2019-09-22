@@ -13,8 +13,8 @@ namespace Kalkulator
             while(true)
                 {
                 Console.WriteLine("2. Wyjscie");
-                Console.WriteLine("30. Dodawanie");
-                Console.WriteLine("50. Odejmowanie");
+                Console.WriteLine("Psie Targi");
+                Console.WriteLine("Sprzeadam psa");
                 Console.WriteLine("3. Mnozenie");
                 Console.WriteLine("4. Dzielenie");
                 int menuOption = Convert.ToInt32(Console.ReadLine());
